@@ -1080,7 +1080,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\main.ts */"./src/main.ts");
 
 
 /***/ })

@@ -11141,7 +11141,7 @@ window.global = window;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

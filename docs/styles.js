@@ -1154,22 +1154,22 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\css\prism.min.css */"./src/assets/css/prism.min.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\sweetalert2\dist\sweetalert2.min.css */"./node_modules/sweetalert2/dist/sweetalert2.min.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\css\wizard.css */"./src/assets/css/wizard.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\css\quill.snow.css */"./src/assets/css/quill.snow.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\css\quill.bubble.css */"./src/assets/css/quill.bubble.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\css\hopscotch.css */"./src/assets/css/hopscotch.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\nouislider\distribute\nouislider.min.css */"./node_modules/nouislider/distribute/nouislider.min.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\angular-calendar\scss\angular-calendar.scss */"./node_modules/angular-calendar/scss/angular-calendar.scss");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\dragula\dist\dragula.css */"./node_modules/dragula/dist/dragula.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\videogular2\fonts\videogular.css */"./node_modules/videogular2/fonts/videogular.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\@swimlane\ngx-datatable\release\index.css */"./node_modules/@swimlane/ngx-datatable/release/index.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\node_modules\@swimlane\ngx-datatable\release\assets\icons.css */"./node_modules/@swimlane/ngx-datatable/release/assets/icons.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\css\demo.css */"./src/assets/css/demo.css");
-__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\assets\sass\app.scss */"./src/assets/sass/app.scss");
-module.exports = __webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\hot_v4_ng6-sanjib_dev\hot_v4_ng6-development_branch\ResourseManagementAppMEAN\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\css\prism.min.css */"./src/assets/css/prism.min.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\sweetalert2\dist\sweetalert2.min.css */"./node_modules/sweetalert2/dist/sweetalert2.min.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\css\wizard.css */"./src/assets/css/wizard.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\css\quill.snow.css */"./src/assets/css/quill.snow.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\css\quill.bubble.css */"./src/assets/css/quill.bubble.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\css\hopscotch.css */"./src/assets/css/hopscotch.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\nouislider\distribute\nouislider.min.css */"./node_modules/nouislider/distribute/nouislider.min.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\angular-calendar\scss\angular-calendar.scss */"./node_modules/angular-calendar/scss/angular-calendar.scss");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\dragula\dist\dragula.css */"./node_modules/dragula/dist/dragula.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\videogular2\fonts\videogular.css */"./node_modules/videogular2/fonts/videogular.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\@swimlane\ngx-datatable\release\index.css */"./node_modules/@swimlane/ngx-datatable/release/index.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\node_modules\@swimlane\ngx-datatable\release\assets\icons.css */"./node_modules/@swimlane/ngx-datatable/release/assets/icons.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\css\demo.css */"./src/assets/css/demo.css");
+__webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\assets\sass\app.scss */"./src/assets/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\Users\AL1451\Documents\IMPORTANT PROJECTS AND FILES\BasicAngularDemoApp\src\styles.css */"./src/styles.css");
 
 
 /***/ })
