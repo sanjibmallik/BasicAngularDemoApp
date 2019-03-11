@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @sanjibmallik Sign out
-1
-3 2 Abhiram1202/angular-6-project
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-angular-6-project/.gitignore
-@Abhiram1202 Abhiram1202 First commit before deployment in git
-7248b4a  on May 18, 2018
-40 lines (33 sloc)  503 Bytes
-    
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
@@ -54,15 +37,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About

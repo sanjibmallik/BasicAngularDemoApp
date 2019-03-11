@@ -1,0 +1,18 @@
+{ 
+    "userList": [
+    {
+        "id": 1,
+        "firstName": "Sanjib",
+        "lastName": "Mallik",
+        "emailId": "mallik@gmail.com",
+        "role": "admin",
+        "enabled": true,
+        "userName": "sanjibmallik",
+        "password": "admin",
+        "contactNumber": "1234444444",
+        "originalFileName": "any",
+        "reqRole": "any",
+        "online": true
+    }
+]
+}

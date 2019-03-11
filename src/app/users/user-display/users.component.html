@@ -1,0 +1,19 @@
+<section id="simple">
+  <div class="row">
+      <div class="col-sm-12">
+          <div class="card">
+              <div class="card-header" style="padding-bottom: 0;">
+                  <h4 class="card-title">Users
+                  <button class="btn btn-raised btn-primary" style="float: right;"
+                  (click)="redirectToCreateUser()">Create User</button>
+                </h4>
+              </div>
+              <div class="card-body">
+                  <div class="card-block">
+                      <ng2-smart-table [settings]="settings" [source]="source" ></ng2-smart-table>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
